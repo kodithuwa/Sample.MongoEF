@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿//MongoDb-EntityFramework Sample
+using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver;
 using Sample.MongoEF.Console;
 
